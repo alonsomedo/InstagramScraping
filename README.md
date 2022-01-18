@@ -1,5 +1,7 @@
 # Scraping-Instagram
 
+### Spanish
+
 Este proyecto esta orientado a la extraccion de datos de Instagram, haciendo uso de tecnologias como:
 
 1. Python
@@ -8,7 +10,9 @@ Este proyecto esta orientado a la extraccion de datos de Instagram, haciendo uso
 El proyecto extrae informacion automaticamente a traves de un #Hashtag que se envia como parametro, actualmente se extraen datos como: Usuario, Likes, Etiquetas, Hashtag, Descripcion en un dataframe asi como tambien se almacenan en un archivo csv.
 
 
-# This project is aimed at extracting data from Instagram, using technologies such as:
+### English
+
+This project is aimed at extracting data from Instagram, using technologies such as:
 
 1. Python
 2. Selenium
